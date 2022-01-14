@@ -1,0 +1,14 @@
+Curso Introduccion al Pensamiento Probabilistico (APUNTE CUADERNO)
+    
+    * la programacion probabilistica uitiliza propiedades y modelos probabilisticos
+      para ejecutar computos.
+
+    * Se uitliza en una gran cantidad de campos : investigaciones cinetificas. inteligencia artifical
+      medicina, etc.
+
+    * Existen lenguajes y librerias especializadas para ejecutar estos tipos de computo. 
+     
+    Ej: Uber 
+
+
+     
